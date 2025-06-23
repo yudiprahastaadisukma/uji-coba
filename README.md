@@ -470,7 +470,7 @@ footer .credit a {
 
     <div class="row">
         <div class="about-img">
-           <img src="gambar/Tentang Kami Kopi.jpg" alt="Tentang Kami">
+           <img src="Tentang Kami Kopi.jpg" alt="Tentang Kami">
         </div>
         <div class="content">
             <h3>Kenapa Memilih Kopi Kami</h3>
