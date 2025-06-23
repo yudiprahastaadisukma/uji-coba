@@ -490,22 +490,22 @@ footer .credit a {
 
     <div class="row">
         <div class="menu-card">
-            <img src="gambar/arabika.jpeg" alt="arabika" class="menu-card-img">
+            <img src="arabika.jpeg" alt="arabika" class="menu-card-img">
             <h3 class="menu-card-title">-arabika-</h3>
             <p class="menu-card-price">IDR 130K per kg</p>
         </div>
         <div class="menu-card">
-            <img src="gambar/arabika.jpeg" alt="arabika" class="menu-card-img">
+            <img src="arabika.jpeg" alt="arabika" class="menu-card-img">
             <h3 class="menu-card-title">-arabika sumatera-</h3>
             <p class="menu-card-price">IDR 149K per kg</p>
         </div>
         <div class="menu-card">
-            <img src="gambar/arabika.jpeg" alt="arabika" class="menu-card-img">
+            <img src="arabika.jpeg" alt="arabika" class="menu-card-img">
             <h3 class="menu-card-title">-arabika vietnam-</h3>
             <p class="menu-card-price">IDR 199K per kg</p>
         </div>
         <div class="menu-card">
-            <img src="gambar/arabika.jpeg" alt="arabika" class="menu-card-img">
+            <img src="arabika.jpeg" alt="arabika" class="menu-card-img">
             <h3 class="menu-card-title">-arabika premium-</h3>
             <p class="menu-card-price">IDR 350K per kg</p>
         </div>
